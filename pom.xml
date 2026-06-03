@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>episs.unaj.com</groupId>
-    <artifactId>crudFacturaed</artifactId>
+    <artifactId>crudVendedor</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>crudFacturaed</name>
-    <description>crudFacturaed</description>
+    <name>crudVendedor</name>
+    <description>crudVendedor</description>
     <url/>
     <licenses>
         <license/>
